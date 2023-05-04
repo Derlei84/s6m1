@@ -4,7 +4,7 @@ email= input('\nDigite seu e-mail: ')
 tel= input('\nDigite seu telefone: ')
 def menu():
     while True:
-        print ('\n1- Carros')
+        print ('\n1- Carros ')
         print ('2- Mecânica')
         print ('3- Atendimento')
         print ('4-sair')
