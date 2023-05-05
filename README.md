@@ -1,1 +1,1 @@
-# s6m1
+O Chatbot foi criado para melhor experiência do cliente com a franquia VamoAI para fácil e rápido atendimento, e em um futuro próximo, coletas de dados, para facilitar a melhor demanda da franquia.  
